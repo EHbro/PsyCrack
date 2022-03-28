@@ -1,8 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 # General methodolody - store 4 character strings and feed them into passwords, like 4char + 4char or 4char + bruteforce.
 # For keyword you can use keyword + bruteforce, or keyword + substitution + bruteforce.
 
