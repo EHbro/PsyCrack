@@ -1,14 +1,9 @@
 # General methodolody - store 4 character strings and feed them into passwords, like 4char + 4char or 4char + bruteforce.
 # For keyword you can use keyword + bruteforce, or keyword + substitution + bruteforce.
 
-#import MySQLdb
 import sys
 import argparse
 import re
-#import smtplib
-#import datetime
-#import subprocess
-#from email.mime.text import MIMEText
 
 # Initiate the argument parser
 parser = argparse.ArgumentParser()
